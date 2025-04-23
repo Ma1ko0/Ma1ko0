@@ -54,13 +54,13 @@ Currently, I’m in the process of moving my projects from a private GitLab inst
 ![GitHub](https://img.shields.io/badge/-GitHub-333?logo=github&style=flat)
 
 #### IDE's  
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-333.svg?logo=vsc&logoColor=white)](Main)
-[![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-333.svg?logo=apache-netbeans-ide&logoColor=white)](Familiar)
-[![Eclipse](https://img.shields.io/badge/Eclipse-333.svg?logo=Eclipse&logoColor=white)](Familiar)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-333.svg?logo=intellij-idea&logoColor=white)](Familiar)
-[![PhpStorm](https://img.shields.io/badge/PhpStorm-333?logo=phpstorm&logoColor=fff)](Familiar)
-[![PyCharm](https://img.shields.io/badge/PyCharm-333?logo=pycharm&logoColor=fff)](Familiar)
-[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-333.svg?&logo=visual-studio&logoColor=white)](Familiar)
+[![Visual Studio Code (Main)](https://custom-icon-badges.demolab.com/badge/VS%20Code-Main-333.svg?logo=vsc&logoColor=white)](https://code.visualstudio.com/)
+[![Visual Studio (Familiar)](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-Familiar-333.svg?logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![NetBeans (Familiar)](https://img.shields.io/badge/NetBeans-Familiar-333.svg?logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/)
+[![Eclipse (Familiar)](https://img.shields.io/badge/Eclipse-Familiar-333.svg?logo=Eclipse&logoColor=white)](https://www.eclipse.org/)
+[![IntelliJ IDEA (Familiar)](https://img.shields.io/badge/IntelliJ%20IDEA-Familiar-333.svg?logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![PhpStorm (Familiar)](https://img.shields.io/badge/PhpStorm-Familiar-333?logo=phpstorm&logoColor=fff)](https://www.jetbrains.com/phpstorm/)
+[![PyCharm (Familiar)](https://img.shields.io/badge/PyCharm-Familiar-333?logo=pycharm&logoColor=fff)](https://www.jetbrains.com/pycharm/)
 
 ---
 
