@@ -29,29 +29,29 @@ Currently, I’m in the process of moving my projects from a private GitLab inst
 ### 🧰 Tech Stack
 
 #### Languages  
-![PHP](https://img.shields.io/badge/-PHP-333?logo=php&style=flat)
-![Java](https://img.shields.io/badge/-Java-333?logo=openjdk&style=flat)
-![Python](https://img.shields.io/badge/-Python-333?logo=python&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?logo=typescript&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript&style=flat)
-![JQuery](https://img.shields.io/badge/-jQuery-333?logo=jquery&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?logo=bootstrap&style=flat)
-![Go](https://img.shields.io/badge/-Go-333?logo=go&style=flat)
-![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=dotnet)
-![SQL](https://img.shields.io/badge/-SQL-333?logo=mysql&style=flat)
+[![PHP](https://img.shields.io/badge/-PHP-333?logo=php&style=flat)](https://www.php.net/)
+[![Java](https://img.shields.io/badge/-Java-333?logo=openjdk&style=flat)](https://www.java.com/de/)
+[![Python](https://img.shields.io/badge/-Python-333?logo=python&style=flat)](https://www.python.org/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-333?logo=typescript&style=flat)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript&style=flat)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JQuery](https://img.shields.io/badge/-jQuery-333?logo=jquery&style=flat)](https://jquery.com/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?logo=bootstrap&style=flat)](https://getbootstrap.com/)
+[![Go](https://img.shields.io/badge/-Go-333?logo=go&style=flat)](https://go.dev/)
+[![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=dotnet)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![PL/SQL](https://img.shields.io/badge/-PL/SQL-333?logo=mysql&style=flat)](https://www.oracle.com/database/technologies/appdev/plsql.html)
 
 #### Databases  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?logo=postgresql&style=flat)
-![MariaDB](https://img.shields.io/badge/-MariaDB-333?logo=mariadb&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-333?logo=mysql&style=flat)
-![Oracle RDBMS](https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-333?logo=oracle&logoColor=white)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?logo=postgresql&style=flat)](https://www.postgresql.org/)
+[![MariaDB](https://img.shields.io/badge/-MariaDB-333?logo=mariadb&style=flat)](https://mariadb.org/)
+[![MySQL](https://img.shields.io/badge/-MySQL-333?logo=mysql&style=flat)](https://www.mysql.com/de/)
+[![Oracle RDBMS](https://custom-icon-badges.demolab.com/badge/Oracle%20RDBMS-333?logo=oracle&logoColor=white)](https://www.oracle.com/database/technologies/)
 
 #### Tools  
-![Docker](https://img.shields.io/badge/-Docker-333?logo=docker&style=flat)
-![Godot](https://img.shields.io/badge/-Godot-333?logo=godot-engine&style=flat)
-![Git](https://img.shields.io/badge/-Git-333?logo=git&style=flat)
-![GitLab](https://img.shields.io/badge/-GitLab-333?logo=gitlab&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-333?logo=github&style=flat)
+[![Docker](https://img.shields.io/badge/-Docker-333?logo=docker&style=flat)](https://www.docker.com/)
+[![Godot](https://img.shields.io/badge/-Godot-333?logo=godot-engine&style=flat)](https://godotengine.org/)
+[![Git](https://img.shields.io/badge/-Git-333?logo=git&style=flat)](https://git-scm.com/)
+[![GitLab](https://img.shields.io/badge/-GitLab-333?logo=gitlab&style=flat)](https://about.gitlab.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?logo=github&style=flat)](https://github.com/)
 
 #### IDE's  
 [![Visual Studio Code (Main)](https://custom-icon-badges.demolab.com/badge/VS%20Code-Main-333.svg?logo=vsc&logoColor=white)](https://code.visualstudio.com/)
