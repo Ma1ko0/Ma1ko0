@@ -22,7 +22,7 @@ Currently, I’m in the process of moving my projects from a private GitLab inst
 - 💼 Currently working on: **A Minecraft SMP Management System**, **A Board-Based Project Management Tool**
 - 🌱 Currently learning: **GoLang**, **Lua**, **C**
 - 🔭 Open to collaborating on: **Open Source**, **Startups**, **Cool Side Projects**
-- 🧠 Interests: **Backend Development**, **Data Management**, **Security**, **System Design**
+- 🧠 Interests: **Backend Development**, **Data Management**, **Automation**, **System Design**
 
 ---
 
