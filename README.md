@@ -20,7 +20,7 @@ Although I am proficient in full-stack development, I thrive when working behind
 Currently, I’m in the process of moving my projects from a private GitLab instance to GitHub in order to contribute more to the open-source community.
 
 - 💼 Currently working on: **A Minecraft SMP Management System**, **A Board-Based Project Management Tool**
-- 🌱 Currently learning: **GoLang**, **Lua**
+- 🌱 Currently learning: **GoLang**, **Lua**, **C**
 - 🔭 Open to collaborating on: **Open Source**, **Startups**, **Cool Side Projects**
 - 🧠 Interests: **Backend Development**, **Data Management**, **Security**, **System Design**
 
